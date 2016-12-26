@@ -48,5 +48,8 @@ Call AthenaConnection.jar setting your Athena query to the first argument.
 java -jar AthenaConnection.jar "SELECT * FROM ......."
 ```
 
+### Get response
+AthenaConnection.jar will return query result as JSONArray. 
+
 ## License
 MIT
