@@ -1,0 +1,2 @@
+Main-Class: AthenaConnection
+Class-Path: lib/AthenaJDBC41-1.0.0.jar lib/java-json-schema.jar

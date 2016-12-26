@@ -1,1 +1,1 @@
-# AthenaConnection
+# AthenaJDBCConnector
